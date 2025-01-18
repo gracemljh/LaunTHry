@@ -9,11 +9,13 @@ LaunTHry (https://t.me/launTHry_bot) is a telegram bot that tracks the availabil
 
 ## Steps to use laundry:
 
-"/start" the bot
-Use "/check", choose your block and the bot will generate a list of available machines.
-Use "/using", choose your block and the machine you are using to indicate that you are using the machine.
-Use "/cancel"
-How we built it
+1. "/start" the bot
+2. Use "/check", choose your block and the bot will generate a list of available machines.
+3. Use "/using", choose your block and the machine you are using to indicate that you are using the machine.
+4. Use "/cancel"
+
+
+## How we built it
 Telegram bot: python-telegram-bot Hosting: repl.it
 
 ## Challenges we ran into
