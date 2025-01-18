@@ -29,7 +29,7 @@ We learnt technical skills such as Telegram Bot development and using python-tel
 
 We also learnt real-world problem solving - creating a practical solution for a cumbersome problem we face.
 
-# What's next for launTHry
+## What's next for launTHry
 Implementing automation features to send notifications when laundry machines become available or when a user's laundry cycle is complete.
 
 Implementing automation features to mark a washing machine as being used when payment is made to the machine.
